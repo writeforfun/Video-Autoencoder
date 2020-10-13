@@ -11,5 +11,4 @@
     - plot PCA and K-Means
     - compare reconstructed frames and original frames
     
-## Environment
-   google colab
+
